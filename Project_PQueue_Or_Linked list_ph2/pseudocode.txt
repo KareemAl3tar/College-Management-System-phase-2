@@ -1,0 +1,19 @@
+Create structure for students containing the student's name, ID, and grade.
+Create priority queue used to store students based on their grades, ordered from highest to lowest
+Create Priority Queue Functions
+ Checks if the queue is empty
+ Adds a new student to the queue if the maximum capacity has not been exceeded.
+ Removes the top student from the queue
+ Retrieves the top student in the queue
+ Show the contents of the queue 
+Create a list to store registered students, using a linked list instead of a vector.
+Create Management Functions that does the following
+ Show Displays all registered students
+ Prints the system definition
+ Updates a student's grade
+ Deletes a student from the registered students list
+ Searches for a student in the registered students list
+ Create function called Registration Processthat does the following
+   Handles the process of registering students from the priority queue to the registered
+      students list.     
+ We have a main function that starts the program by calling RunMain
